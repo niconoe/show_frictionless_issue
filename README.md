@@ -1,6 +1,7 @@
 Minimal reproducible example to illustrate https://github.com/frictionlessdata/frictionless-py/issues/956:
 
-Tested on Python 3.8
+- Tested on Python 3.8
+- To install requirements: `$ pip install -r requirements.txt`
 
 When running `demo.py` as is, output is:
 
